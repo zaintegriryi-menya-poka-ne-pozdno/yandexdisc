@@ -1,0 +1,29 @@
+{
+    "widget":{
+        "name":"Загрузка документов",
+        "short_description":"Синхронизация amoCRM и Google Disk",
+        "description":"Полное описание виджета",
+        "tour_description":"Описание виджета"
+    },
+    "settings":{
+        "login":"Логин",
+        "api_key":"ключ API",
+        "account":"Аккаунт"
+    },
+    "advanced":{
+        "title":"Заголовок меню в настройках"
+    },
+    "salesbot":{
+        "button_title":"Загрузка документов",
+        "button_caption":"Загрузка документов",
+        "button_title_default_value":"Загрузка документов",
+        "button_caption_default_value":"Загрузка документов",
+        "text":"Текст",
+        "number":"Число",
+        "url":"URL",
+        "handler_name":"Название обработчика"
+    },
+    "dp":{
+        "message": "Сообщение"
+    }
+}
